@@ -3,5 +3,6 @@
         "allowJs": true, //이 프로젝트안에 자바스크립트를 허용하겠다.
         "checkJs": true, //@ts-check와 같은 역할
         "noImplicitAny": true, //모든 타입에 대해 최소한 any라도 넣어야 한다.
+        "target": "ES6" //JS로 변환할 때 어떤 ECMA Script로 변환할 것인지?
     }
 }
