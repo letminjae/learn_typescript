@@ -1,0 +1,7 @@
+{
+    "compilerOptions" : { // ts가 이 프로젝트를 어떻게 이해할지에 정의를 내려줌
+        "allowJs": true, //이 프로젝트안에 자바스크립트를 허용하겠다.
+        "checkJs": true, //@ts-check와 같은 역할
+        "noImplicitAny": true, //모든 타입에 대해 최소한 any라도 넣어야 한다.
+    }
+}
